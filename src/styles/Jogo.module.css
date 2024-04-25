@@ -22,7 +22,8 @@
 .botoes button {
     background-color: #c0392c;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.5rem;
     border: none;
-    padding: 10px 25px;
+    border-radius: 16px;
+    padding: 16px 24px;
 }

@@ -15,7 +15,7 @@
     border-left: 5px solid brown;
     border-top: 5px solid brown;
     border-right: 5px solid brown;
-    background-color: #0005;
+    background-color: rgba(165, 42, 42, 0.333);
     width: 90%;
 }
 
